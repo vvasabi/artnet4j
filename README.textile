@@ -1,3 +1,5 @@
 h2. artnet4j
 
 This is a fork of artnet4j library from Google Code. For more info, view its website "here":http://code.google.com/p/artnet4j/.
+
+Another fork on Github that is being active developed and maintained "is available here":https://github.com/Eliosoft/artnet4j-elios.
